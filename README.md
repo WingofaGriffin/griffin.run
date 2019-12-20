@@ -1,5 +1,4 @@
-# [gzs.fyi](gzs.fyi)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7a2d0c5a-1e62-475b-9200-421ce0ba00db/deploy-status)](https://app.netlify.com/sites/gzs-fyi/deploys)
+# griffin.run
 
 My personal website.
 
