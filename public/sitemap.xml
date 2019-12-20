@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gzs.fyi/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>https://gzs.fyi/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://gzs.fyi/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://gzs.fyi/portfolio/</loc>
+    <loc>/portfolio/</loc>
   </url>
   
   <url>
-    <loc>https://gzs.fyi/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
