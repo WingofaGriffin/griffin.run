@@ -19,14 +19,14 @@ Here is a list of some of the projects I have worked on as a Developer Advocate.
 
 ## Blog Posts
 
-- [Using a Slack app as a communication portal between different workspaces](https://www.transposit.com/blog/2019.09.17-slack-shared-channels/)
-- [Creating an API from HTML: Scraping Amazon Reviews into Google Sheets](https://www.transposit.com/blog/2019.09.09-amazon-apify-sheet/)
-- [Exploring new user notifications in Slack](https://www.transposit.com/blog/2019.07.22-slack-blueprint/)
-- [PrideBot is a reminder that pride is both worldwide and never-ending 🏳️‍🌈](https://www.transposit.com/blog/2019.06.28-pridebot/)
+- [Using a Slack app as a communication portal between different workspaces](https://www.transposit.com/blog/2019.09.17-slack-shared-channels/) | [Archive](https://web.archive.org/web/20200305033654/https://www.transposit.com/blog/2019.09.17-slack-shared-channels/)
+- [Creating an API from HTML: Scraping Amazon Reviews into Google Sheets](https://www.transposit.com/blog/2019.09.09-amazon-apify-sheet/) | [Archive](https://web.archive.org/web/20200305033834/https://www.transposit.com/blog/2019.09.09-amazon-apify-sheet/)
+- [Exploring new user notifications in Slack](https://www.transposit.com/blog/2019.07.22-slack-blueprint/) | [Archive](https://web.archive.org/web/20200305033856/https://www.transposit.com/blog/2019.07.22-slack-blueprint/)
+- [PrideBot is a reminder that pride is both worldwide and never-ending 🏳️‍🌈](https://www.transposit.com/blog/2019.06.28-pridebot/) | [Archive](https://web.archive.org/web/20200305033928/https://www.transposit.com/blog/2019.06.28-pridebot/)
 
 ## Talks
 
-- Making the most of Slack webhooks (Slack Platform Community) -- [Coming soon!](https://sites.google.com/view/spc-san-francisco/home)
+- Making the most of Slack webhooks (Slack Platform Community) -- [To be uploaded](https://sites.google.com/view/spc-san-francisco/home)
 
 ## Other
 
