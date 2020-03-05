@@ -7,9 +7,10 @@ Here is a list of some of the projects I have worked on as a Developer Advocate.
 
 ## Sample Apps
 
+- [Pridebot](https://www.transposit.com/apps/a/pridebot/)
+  - [Remade on Glitch](https://glitch.com/~pridebot-glitch)
 - [Amazon Review Scraper](https://www.transposit.com/apps/a/amazon_review_scraper/)
 - [Okta Twilio Demo](https://www.transposit.com/apps/a/okta_signal/)
-- [Pridebot](https://www.transposit.com/apps/a/pridebot/)
 - [SIGNAL 2019 Raffle](https://www.transposit.com/apps/a/signal_raffle/)
 - [Slack Portal](https://www.transposit.com/apps/a/slack_portal/)
 - [Slack new user notifications](https://www.transposit.com/apps/a/slack_new_user_notifications/)
