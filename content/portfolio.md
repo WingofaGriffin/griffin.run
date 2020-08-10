@@ -9,6 +9,8 @@ Here is a list of some of the projects I have worked on as a Developer Advocate.
 
 - [Pridebot](https://www.transposit.com/apps/a/pridebot/)
   - [Remade on Glitch](https://glitch.com/~pridebot-glitch)
+- [Slack2Airtable](https://glitch.com/~slack2airtable)
+  - A recreation of a Slack2GoogleSheet using Bolt and Airtable instead.
 - [Amazon Review Scraper](https://www.transposit.com/apps/a/amazon_review_scraper/)
 - [Okta Twilio Demo](https://www.transposit.com/apps/a/okta_signal/)
 - [SIGNAL 2019 Raffle](https://www.transposit.com/apps/a/signal_raffle/)
